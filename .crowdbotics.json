@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.2.0",
+    "cookiecutter_context": {
+      "project_name": "Green Night",
+      "project_slug": "green_night_dev_98376",
+      "project_dash_slug": "green-night-dev-98376",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "TST-kemyiejqyl@aol.com",
+      "ssh_key_fingerprint": "c5:bd:6d:0b:a1:39:97:83:ca:b5:13:59:14:ff:49:40"
+    }
+  }
+}
